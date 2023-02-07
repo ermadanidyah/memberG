@@ -19,7 +19,7 @@
 ## Login
 
 - [ ][Adminsistrasi] 
-    Email: superadmin
+    Username: superadmin
     Password: 12345678
 - [ ][Member]
     Email: member1@gmail.com
